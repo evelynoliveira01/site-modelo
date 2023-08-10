@@ -142,3 +142,9 @@ font-size: 35px;}
 
 footer{background-color: rgb(69, 71, 69);
 display: flex;}
+footer .contato_footer ul{
+        width: 25%;
+}
+
+footer .contato_footer h3{margin-bottom: 17px;
+font-weight: 600px;}
