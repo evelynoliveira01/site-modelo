@@ -159,3 +159,16 @@ footer .contato_footer{flex-direction: column;}
 
 .container .card3{
         background-image: url(../imagem/pexels-safari-consoler-11834966card.jpg);}
+
+
+
+
+        .conteudo-dois{display: flex;
+                background-color: rgba(184, 135, 11, 0.137);
+                align-items: center;}
+                .conteudo-dois p{width: 300px;
+                margin-left: 50px;
+                }
+                
+                .conteudo-dois h2{font-size: 45px;
+                margin-top: 70px;
