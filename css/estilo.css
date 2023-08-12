@@ -156,3 +156,57 @@ font-weight: 600px; }
  
 
 footer .contato_footer{flex-direction: column;}
+
+.card{
+        width: 200px;
+        height: 220px;box-shadow: 20px 20px 50px, rgba(0, 0, 0, 0.5)}
+        
+        .container{
+                position: relative;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 1200px;flex-wrap: wrap;z-index: 1;
+                margin-top: 250px;
+        }
+        
+             
+        
+        .container .card{position: relative;
+                width: 280px; height: 400px ;margin: 25px;
+                 background-color: rgba(0, 0, 0, 0.7);
+                border-radius: 10px;
+                justify-content: center;text-align: center;
+                display: flex;
+                background-image: url(../imagem/pexels-mehmet-turgut-kirkgoz-11421621.jpg);
+              }
+              .container  h2{background-color: rgba(54, 35, 35, 0.397);}
+        
+        
+          
+        
+        .container .card3{
+                background-image: url(../imagem/pexels-safari-consoler-11834966card.jpg);}
+        
+         .container .card2{ background-image:url(../imagem/pexels-pixabay-220365card2.jpg) ;
+                background-position: right;}
+          
+        .container .card .content p{text-align: center;
+        margin-top: 15px; color: white;}
+        
+        
+        .container .card:hover .content{transform: translateX(0);}
+        .container .card .content{transform: translateY(100px);}
+        .container .card .content h3{font-size: 30px;}
+         
+        
+        .artigo{background:rgba(237, 241, 8, 0.596);
+                width: 90%;
+                margin: auto;
+        
+        margin-bottom: 30px;
+        padding: 10px;}
+        
+        .artigo h2{background-color: rgba(184, 195, 206, 0.377);
+        border-radius:  7px;
+        padding: 10px; }
