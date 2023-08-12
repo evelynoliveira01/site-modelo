@@ -210,3 +210,23 @@ footer .contato_footer{flex-direction: column;}
         .artigo h2{background-color: rgba(184, 195, 206, 0.377);
         border-radius:  7px;
         padding: 10px; }
+        .dois.ultimo .ultimo{width: 200;
+                height:200;
+                border-radius: 50%;
+                background-color: darkred;}
+                
+                .circulo{width: 200px;
+                height: 200px;
+                border: 1px solid black ;
+                border-style: solid;
+                background-color: red;border-radius: 50%;}
+                
+                .final{display: flex;
+                pad: 16px;
+                color: white;
+                justify-content: center
+                ; margin-top: 5%;}
+                .artigo1{color:black;
+                background-color: rgba(240, 248, 255, 0.192);
+                margin-top: 8%;
+                padding-left: 10px;}
