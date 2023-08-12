@@ -156,3 +156,6 @@ font-weight: 600px; }
  
 
 footer .contato_footer{flex-direction: column;}
+
+.container .card3{
+        background-image: url(../imagem/pexels-safari-consoler-11834966card.jpg);}
